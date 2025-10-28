@@ -1,4 +1,4 @@
-Basado en https://github.com/kinivi/hand-gesture-recognition-mediapipe
+Este software parte del repositorio de código abierto https://github.com/kinivi/hand-gesture-recognition-mediapipe
 
 Los objetivos de este proyecto son, por un lado, facilitar a personas con dificultades en el habla la comunicación con otros usuarios durante una video llamada, pudiendo realizar gestos frente a la cámara, y traduciéndose en tiempo real para el resto de los miembros de la llamada. Por otro lado, mejorar la docencia de aquellos profesores que imparten clases online, ofreciéndoles la posibilidad de realizar trazos y crear figuras en pantalla, usando únicamente sus manos frente a la cámara.
 
